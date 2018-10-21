@@ -1,37 +1,19 @@
-<div class="animated fadeinup fullscreen">
-    <div class="swiper-container slider slider-fullscreen">
-        <div class="swiper-wrapper">
-            <div class="swiper-slide bg-v-2">
-                <div class="opacity-overlay-black"></div>
-                <div class="bottom-abs left-align">
-                    <h4 class="slider-title uppercase white-text">Um jeito fácil de mudar</h4>
-                    <p class="slider-text small white-text">Faça sua mudança com agilidade, organização e segurança!</p>
+<div class="blog-card animated fadein delay-1">
+    <div class="p-20 text-center">
+        <h3 class="title-blue m-b-20">Organize sua mudança</h3>
+    </div>
 
-                    <a class="btn-rounded waves-effect waves-light btn-large primary-color block animated bouncein delay-4" href="new-box.php">Começar Minha Mudança</a>
-                </div>
-            </div>
+    <div class="blog-image index-image">
+        <img src="img/undrawEmptyXct92@3x.png" alt="">
+    </div>
 
-            <div class="swiper-slide bg-v-2">
-                <div class="opacity-overlay-black"></div>
-                <div class="bottom-abs left-align">
-                    <h4 class="slider-title uppercase white-text">Um jeito fácil de mudar</h4>
-                    <p class="slider-text small white-text">Faça sua mudança com agilidade, organização e segurança!</p>
+    <div class="blog-preview p-20">
+        <h5 class="title-blue m-b-20 text-center">
+            Crie de forma personalizada diversas caixas para organizar sua mudança!
+        </h5>
+    </div>
 
-                    <a class="btn-rounded waves-effect waves-light btn-large primary-color block animated bouncein delay-4" href="new-box.php">Começar Minha Mudança</a>
-                </div>
-            </div>
-
-            <div class="swiper-slide bg-v-2">
-                <div class="opacity-overlay-black"></div>
-                <div class="bottom-abs left-align">
-                    <h4 class="slider-title uppercase white-text">Um jeito fácil de mudar</h4>
-                    <p class="slider-text small white-text">Faça sua mudança com agilidade, organização e segurança!</p>
-
-                    <a class="btn-rounded waves-effect waves-light btn-large primary-color block animated bouncein delay-4" href="new-box.php">Começar Minha Mudança</a>
-                </div>
-            </div>
-        </div>
-
-        <div class="swiper-pagination white-bullet"></div>
+    <div class="p-20">
+        <a class="waves-effect waves-light btn-large primary-color block animated bouncein delay-4 btn-rounded" href="new-box.php">Adicionar nova caixa</a>
     </div>
 </div>

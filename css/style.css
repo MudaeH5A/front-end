@@ -86,6 +86,9 @@ a {
 b {
     font-weight: 700;
 }
+.text-center {
+    text-align: center;
+}
 .small,
 small {
     font-size: 85% !important;
@@ -1006,6 +1009,10 @@ textarea.materialize-textarea:focus:not([readonly]) {
 .blog-image {
     width: 50%;
     margin: 10px auto;
+}
+.index-image {
+    width: 80%;
+    margin: 20px auto;
 }
 .blog-fullwidth .blog-preview h4 {
     margin-top: 0;
