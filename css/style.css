@@ -1719,6 +1719,12 @@ li.your-comment {
 .title-blue {
     color: #0F4FAE;
 }
+#scan-qr-code {
+    float: right;
+    color: #FF7540;
+    font-size: 12px;
+    font-weight: bold;
+}
 .background-blue {
     background: #0F4FAE;
     color: #fff;

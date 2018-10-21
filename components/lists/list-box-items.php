@@ -7,11 +7,15 @@
         <a href="#" class="block">
             <div class="c-widget">
                 <div class="c-widget-figure background-blue">
-                <i class="ion-cube"></i>
+                <i class="ion-social-dropbox"></i>
                 </div>
                 <div class="c-widget-body">
-                <p class="m-0">Cozinha</p>
-                <p class="small m-0">7 itens</p>
+                    <p class="m-0">
+                        Cozinha
+                        <span id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</span>
+                    </p>
+
+                    <p class="small m-0">7 itens</p>
                 </div>
             </div>
         </a>
@@ -21,11 +25,15 @@
         <a href="#" class="block">
             <div class="c-widget">
                 <div class="c-widget-figure background-blue">
-                <i class="ion-cube"></i>
+                    <i class="ion-social-dropbox"></i>
                 </div>
+
                 <div class="c-widget-body">
-                <p class="m-0">Sala</p>
-                <p class="small m-0">14 itens</p>
+                    <p class="m-0">
+                        Sala
+                        <span id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</span>
+                    </p>
+                    <p class="small m-0">14 itens</p>
                 </div>
             </div>
         </a>
@@ -35,10 +43,13 @@
         <a href="#" class="block">
             <div class="c-widget">
                 <div class="c-widget-figure background-blue">
-                <i class="ion-cube"></i>
+                <i class="ion-social-dropbox"></i>
                 </div>
                 <div class="c-widget-body">
-                <p class="m-0">Quarto</p>
+                <p class="m-0">
+                    Quarto
+                    <span id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</span>
+                </p>
                 <p class="small m-0">15 itens</p>
                 </div>
             </div>
@@ -49,11 +60,18 @@
         <a href="#" class="block">
             <div class="c-widget">
                 <div class="c-widget-figure background-blue">
-                <i class="ion-cube"></i>
+                    <i class="ion-social-dropbox"></i>
                 </div>
+
                 <div class="c-widget-body">
-                <p class="m-0">Área de Serviço</p>
-                <p class="small m-0">10 itens</p>
+                    <p class="m-0">
+                        Área de Serviço
+                        <span id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</span>
+                    </p>
+
+                    <p class="small m-0">
+                        10 itens
+                    </p>
                 </div>
             </div>
         </a>
