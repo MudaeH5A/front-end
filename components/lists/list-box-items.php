@@ -1,3 +1,7 @@
+<div class="p-20 border-bottom">
+    <h4 class="title-blue">46 Items / 4 caixas</h4>
+</div>
+
 <div class="animated fadeinup delay-1">
     <div class="card m-t-20 animated fadeinup delay-2">
         <a href="#" class="block">
@@ -35,7 +39,7 @@
                 </div>
                 <div class="c-widget-body">
                 <p class="m-0">Quarto</p>
-                <p class="small m-0">7 itens</p>
+                <p class="small m-0">15 itens</p>
                 </div>
             </div>
         </a>
@@ -48,8 +52,8 @@
                 <i class="ion-cube"></i>
                 </div>
                 <div class="c-widget-body">
-                <p class="m-0">Quarto</p>
-                <p class="small m-0">7 itens</p>
+                <p class="m-0">Área de Serviço</p>
+                <p class="small m-0">10 itens</p>
                 </div>
             </div>
         </a>
