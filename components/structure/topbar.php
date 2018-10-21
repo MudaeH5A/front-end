@@ -5,10 +5,14 @@
     </a>
 
     <span class="title">
-        <img src="img/mudae-logo.png" alt="">
+        <a href="index.php">
+            <img src="img/mudae-logo.png" alt="">
+        </a>
     </span>
 
     <div class="open-right">
-        <i class="ion-qr-scanner"></i>
+        <a href="qr-code-list.php">
+            <i class="ion-qr-scanner"></i>
+        </a>
     </div>
 </div>

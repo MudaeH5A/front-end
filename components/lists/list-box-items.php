@@ -12,7 +12,7 @@
                 <div class="c-widget-body">
                     <p class="m-0">
                         Cozinha
-                        <span id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</span>
+                       <a href="qr-code-list.php" id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</a>
                     </p>
 
                     <p class="small m-0">7 itens</p>
@@ -31,7 +31,7 @@
                 <div class="c-widget-body">
                     <p class="m-0">
                         Sala
-                        <span id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</span>
+                        <a href="qr-code-list.php" id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</a>
                     </p>
                     <p class="small m-0">14 itens</p>
                 </div>
@@ -48,7 +48,7 @@
                 <div class="c-widget-body">
                 <p class="m-0">
                     Quarto
-                    <span id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</span>
+                    <a href="qr-code-list.php" id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</a>
                 </p>
                 <p class="small m-0">15 itens</p>
                 </div>
@@ -66,7 +66,7 @@
                 <div class="c-widget-body">
                     <p class="m-0">
                         Área de Serviço
-                        <span id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</span>
+                        <a href="qr-code-list.php" id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</a>
                     </p>
 
                     <p class="small m-0">

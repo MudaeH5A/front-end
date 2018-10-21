@@ -1759,6 +1759,8 @@ li.your-comment {
     color: #FF7540;
     font-size: 12px;
     font-weight: bold;
+    display: inline-block;
+    margin-top: -20px;
 }
 .background-blue {
     background: #0F4FAE;

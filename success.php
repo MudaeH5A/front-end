@@ -6,8 +6,7 @@
     <div id="content">
     <?php
     require 'components/structure/topbar.php';
-    require 'components/forms/new-box-form.php';
-    require 'components/lists/list-box-button.php';
+    require 'components/sliders/success.php'
     ?>
     </div>
 

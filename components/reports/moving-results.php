@@ -49,6 +49,6 @@
     </div>
 
     <div class="p-20">
-        <a class="waves-effect waves-light btn-large success-color block animated bouncein delay-4 btn-rounded" href="#">Contratar Mudança</a>
+        <a class="waves-effect waves-light btn-large success-color block animated bouncein delay-4 btn-rounded" href="success.php">Contratar Mudança</a>
     </div>
 </div>

@@ -34,3 +34,7 @@
         Voltar para lista de caixas
     </a>
 </div>
+
+<div class="p-20">
+    <a class="waves-effect waves-light btn-large primary-color block animated bouncein delay-4 btn-rounded" href="box-list.php">Cadastrar Caixa</a>
+</div>
