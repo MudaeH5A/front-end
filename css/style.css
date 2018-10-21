@@ -137,6 +137,11 @@ blockquote {
     margin-left: -3px;
     font-weight: 700;
 }
+.title img {
+    height: 40px;
+    width: auto;
+    float: left;
+}
 .section-title {
     margin: 0;
     padding: 40px 20px 0;
@@ -166,7 +171,11 @@ blockquote {
     color: #2196F3 !important;
 }
 .primary-color {
-    background-color: #2196F3 !important;
+    background-color: #FF7540 !important;
+}
+.inverse-color {
+    background-color: #ffffff !important;
+    color: #FF7540
 }
 .primary-border {
     border-color: #2196F3 !important;
@@ -612,6 +621,9 @@ footer.page-footer {
     top: 0;
     left: 0;
     right: 0;
+    justify-content: center;
+    align-items: center;
+    box-shadow:  0 2px 2px 0 rgba(0, 0, 0, .08);
 }
 #toolbar.transparent {
     background-color: transparent !important;
@@ -640,16 +652,20 @@ footer.page-footer {
 #toolbar i {
     font-size: 24px;
     line-height: 56px;
-    color: #fff;
+    color: #FF7540;
 }
 #toolbar .title {
     font-size: 22px;
     font-weight: 300;
     color: #fff;
     line-height: 56px;
-    margin-left: 16px;
+    margin: auto;
     text-transform: none;
     letter-spacing: normal;
+    padding: 8px;
+    display: inline-block;
+    align-self: center;
+
 }
 /*------------------------------------------------------------------
 6. Drawer
@@ -1695,6 +1711,9 @@ li.your-comment {
 }
 .form-inputs h4 {
     margin-bottom: 25px;
+}
+.btn-rounded {
+    border-radius: 100px;
 }
 .shipping-address {
     padding-top: 20px;

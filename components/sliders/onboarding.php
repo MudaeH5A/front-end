@@ -7,7 +7,7 @@
                     <h4 class="slider-title uppercase white-text">Um jeito fácil de mudar</h4>
                     <p class="slider-text small white-text">Faça sua mudança com agilidade, organização e segurança!</p>
 
-                    <a class="waves-effect waves-light btn-large primary-color block animated bouncein delay-4" href="new-box.php">Começar Minha Mudança</a>
+                    <a class="btn-rounded waves-effect waves-light btn-large primary-color block animated bouncein delay-4" href="new-box.php">Começar Minha Mudança</a>
                 </div>
             </div>
 
@@ -17,7 +17,7 @@
                     <h4 class="slider-title uppercase white-text">Um jeito fácil de mudar</h4>
                     <p class="slider-text small white-text">Faça sua mudança com agilidade, organização e segurança!</p>
 
-                    <a class="waves-effect waves-light btn-large primary-color block animated bouncein delay-4" href="new-box.php">Começar Minha Mudança</a>
+                    <a class="btn-rounded waves-effect waves-light btn-large primary-color block animated bouncein delay-4" href="new-box.php">Começar Minha Mudança</a>
                 </div>
             </div>
 
@@ -27,7 +27,7 @@
                     <h4 class="slider-title uppercase white-text">Um jeito fácil de mudar</h4>
                     <p class="slider-text small white-text">Faça sua mudança com agilidade, organização e segurança!</p>
 
-                    <a class="waves-effect waves-light btn-large primary-color block animated bouncein delay-4" href="new-box.php">Começar Minha Mudança</a>
+                    <a class="btn-rounded waves-effect waves-light btn-large primary-color block animated bouncein delay-4" href="new-box.php">Começar Minha Mudança</a>
                 </div>
             </div>
         </div>
