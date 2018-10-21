@@ -7,15 +7,15 @@
         <a href="#" class="block">
             <div class="c-widget">
                 <div class="c-widget-figure background-blue">
-                <i class="ion-social-dropbox"></i>
+                    <i class="ion-social-dropbox"></i>
                 </div>
+
                 <div class="c-widget-body">
                     <p class="m-0">
-                        Cozinha
-                       <a href="qr-code-list.php" id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</a>
+                        Sala
+                        <a href="qr-code-list.php" id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</a>
                     </p>
-
-                    <p class="small m-0">7 itens</p>
+                    <p class="small m-0">2 itens</p>
                 </div>
             </div>
         </a>
@@ -25,15 +25,15 @@
         <a href="#" class="block">
             <div class="c-widget">
                 <div class="c-widget-figure background-blue">
-                    <i class="ion-social-dropbox"></i>
+                <i class="ion-social-dropbox"></i>
                 </div>
-
                 <div class="c-widget-body">
                     <p class="m-0">
-                        Sala
-                        <a href="qr-code-list.php" id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</a>
+                        Cozinha
+                       <a href="qr-code-list.php" id="scan-qr-code" class="qr-code-icon">Escanear </br> QR Code</a>
                     </p>
-                    <p class="small m-0">14 itens</p>
+
+                    <p class="small m-0">7 itens</p>
                 </div>
             </div>
         </a>

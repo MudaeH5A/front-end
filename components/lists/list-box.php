@@ -5,27 +5,27 @@
 <div class="todo animated fadeinup delay-1" id="test1">
     <p class="todo-element">
         <input checked id="todo1" type="checkbox">
-        <label for="todo1">Talheres</label>
+        <label for="todo1">Cabos</label>
     </p>
 
     <p class="todo-element">
         <input checked id="todo2" type="checkbox">
-        <label for="todo2">Pratos</label>
+        <label for="todo2">Controle</label>
     </p>
 
     <p class="todo-element">
-        <input checked id="todo3" type="checkbox">
-        <label for="todo3">Guardanapos</label>
+        <input id="todo3" type="checkbox">
+        <label for="todo3">PS4</label>
     </p>
 
     <p class="todo-element">
-        <input checked id="todo4" type="checkbox">
-        <label for="todo4">Panelas</label>
+        <input id="todo4" type="checkbox">
+        <label for="todo4">Joysticks</label>
     </p>
 
     <p class="todo-element">
-        <input checked id="todo5" type="checkbox">
-        <label for="todo5">Copos</label>
+        <input id="todo5" type="checkbox">
+        <label for="todo5">Antenas</label>
     </p>
 </div>
 

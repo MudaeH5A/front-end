@@ -40,14 +40,6 @@
         </p>
     </div>
 
-    <div class="blog-header">
-        <img class="avatar circle" src="img/avatar.png" alt="">
-        <div class="blog-author">
-        <span class="user-name">Vinícius Ribeiro</span>
-        <span class="small">Mercedez Bens - Placa GVP 9028</span>
-        </div>
-    </div>
-
     <div class="p-20">
         <a class="waves-effect waves-light btn-large success-color block animated bouncein delay-4 btn-rounded" href="success.php">Contratar Mudança</a>
     </div>
