@@ -1716,6 +1716,13 @@ li.your-comment {
 .btn-rounded {
     border-radius: 100px;
 }
+.title-blue {
+    color: #0F4FAE;
+}
+.background-blue {
+    background: #0F4FAE;
+    color: #fff;
+}
 .shipping-address {
     padding-top: 20px;
     margin-top: 20px;

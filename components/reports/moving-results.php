@@ -4,7 +4,7 @@
     </div>
 
     <div class="blog-preview p-20">
-        <h4 class="uppercase">Gustavo encontramos um transportador  para 28/10 às 10:00h</h4>
+        <h4 class="uppercase title-blue">Gustavo encontramos um transportador  para 28/10 às 10:00h</h4>
         <p>
             <b>Endereço de partida:</b>
             Luverci Pereira de Souza, 2410

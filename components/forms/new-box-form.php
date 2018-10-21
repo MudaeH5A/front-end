@@ -1,5 +1,5 @@
 <div class="p-20">
-    <h2 class="m-b-20">Personalize sua caixa, te ajudamos a não perder nada!</h2>
+    <h2 class="m-b-20 title-blue">Personalize sua caixa, te ajudamos a não perder nada!</h2>
 
     <div class="input-field">
         <input class="validate" id="box-category" type="text">

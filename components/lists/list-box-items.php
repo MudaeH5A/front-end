@@ -2,7 +2,7 @@
     <div class="card m-t-20 animated fadeinup delay-2">
         <a href="#" class="block">
             <div class="c-widget">
-                <div class="c-widget-figure primary-color">
+                <div class="c-widget-figure background-blue">
                 <i class="ion-cube"></i>
                 </div>
                 <div class="c-widget-body">
@@ -16,7 +16,7 @@
     <div class="card m-t-20 animated fadeinup delay-2">
         <a href="#" class="block">
             <div class="c-widget">
-                <div class="c-widget-figure primary-color">
+                <div class="c-widget-figure background-blue">
                 <i class="ion-cube"></i>
                 </div>
                 <div class="c-widget-body">
@@ -30,7 +30,21 @@
     <div class="card m-t-20 animated fadeinup delay-2">
         <a href="#" class="block">
             <div class="c-widget">
-                <div class="c-widget-figure primary-color">
+                <div class="c-widget-figure background-blue">
+                <i class="ion-cube"></i>
+                </div>
+                <div class="c-widget-body">
+                <p class="m-0">Quarto</p>
+                <p class="small m-0">7 itens</p>
+                </div>
+            </div>
+        </a>
+    </div>
+
+    <div class="card m-t-20 animated fadeinup delay-2">
+        <a href="#" class="block">
+            <div class="c-widget">
+                <div class="c-widget-figure background-blue">
                 <i class="ion-cube"></i>
                 </div>
                 <div class="c-widget-body">
@@ -48,6 +62,6 @@
     </div>
 
     <div class="p-20">
-        <a class="waves-effect waves-light btn-large primary-color block animated bouncein delay-4" href="moving.php">Solicitar Transportador</a>
+        <a class="waves-effect waves-light btn-large primary-color block animated bouncein delay-4 btn-rounded" href="moving.php">Solicitar Transportador</a>
     </div>
 </div>
