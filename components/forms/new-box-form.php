@@ -1,5 +1,6 @@
 <div class="p-20">
-    <h1>Personalize sua caixa, te ajudamos a não perder nada!</h1>
+    <h2 class="m-b-20">Personalize sua caixa, te ajudamos a não perder nada!</h2>
+
     <div class="input-field">
         <input class="validate" id="box-category" type="text">
         <label for="box-category">Qual a categoria da caixa?</label>

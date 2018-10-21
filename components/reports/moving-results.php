@@ -5,15 +5,18 @@
 
     <div class="blog-preview p-20">
         <h4 class="uppercase">Gustavo encontramos um transportador  para 28/10 às 10:00h</h4>
-        <p><b>Endereço de partida:</b>
+        <p>
+            <b>Endereço de partida:</b>
             Luverci Pereira de Souza, 2410
         </p>
 
-        <p><b>Endereço final:</b>
+        <p>
+            <b>Endereço final:</b>
             Av. Francisco Glicério, 829
         </p>
 
-        <p><b>Percurso:</b>
+        <p>
+            <b>Percurso:</b>
             50 quilomêtros
          </p>
 
@@ -31,6 +34,6 @@
     </div>
 
     <div class="p-20">
-        <a class="waves-effect waves-light btn-large primary-color block animated bouncein delay-4" href="#">Contratar Mudança</a>
+        <a class="waves-effect waves-light btn-large primary-color block animated bouncein delay-4 btn-rounded" href="#">Contratar Mudança</a>
     </div>
 </div>
