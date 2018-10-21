@@ -1,7 +1,3 @@
-<div class="p-20 border-bottom">
-    <h4 class="title-blue">Caixa da Sala</h4>
-</div>
-
 <div class="todo animated fadeinup delay-1" id="test1">
     <p class="todo-element">
         <input id="todo1" type="checkbox">
