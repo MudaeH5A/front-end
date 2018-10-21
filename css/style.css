@@ -173,6 +173,10 @@ blockquote {
 .primary-color {
     background-color: #FF7540 !important;
 }
+.success-color {
+    background-color: #54BF51 !important;
+    color: #fff;
+}
 .inverse-color {
     background-color: #ffffff !important;
     color: #FF7540
@@ -999,17 +1003,18 @@ textarea.materialize-textarea:focus:not([readonly]) {
 .blog-fullwidth .blog-image {
     position: relative;
 }
+.blog-image {
+    width: 50%;
+    margin: 10px auto;
+}
 .blog-fullwidth .blog-preview h4 {
     margin-top: 0;
 }
 /* Blog Card */
 
 .blog-card {
-    margin: 20px;
     background-color: #fff;
     border-radius: 2px;
-    -webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
-    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
 }
 .blog-card .blog-header {
     padding: 20px 20px 20px 80px;
@@ -1026,6 +1031,26 @@ textarea.materialize-textarea:focus:not([readonly]) {
 }
 .blog-fullwidth .blog-preview h4 {
     margin-top: 0;
+}
+
+.blog-preview p {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 0 0 rgba(0, 0, 0,.08);
+}
+.blog-preview b {
+    font-size: 13px;
+    color: #4A4A4A;
+}
+.user-name {
+    font-size: 20px;
+    font-weight: bold;
+    color: #4A4A4A;
+}
+.total-value {
+    font-size: 20px;
+    font-weight: bold;
+    color: #00C844;
 }
 /* Promo */
 
@@ -1119,6 +1144,9 @@ h6.promo-caption {
 .comments-list ul {
     width: 100%;
     overflow: hidden;
+}
+.avaliable {
+    color: #FF7E56;
 }
 .comments-list li {
     margin-bottom: 32px;
