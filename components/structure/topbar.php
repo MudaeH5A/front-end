@@ -7,4 +7,8 @@
     <span class="title">
         <img src="img/mudae-logo.png" alt="">
     </span>
+
+    <div class="open-right">
+        <i class="ion-qr-scanner"></i>
+    </div>
 </div>
